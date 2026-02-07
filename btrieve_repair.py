@@ -27,6 +27,9 @@ BLOCK_SIZE = 256
 # Add the btrieve library to path
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'btrieve'))
 
+# Import DDF parsers
+from ddf_parsers import get_tables_ddf, get_fields_ddf
+
 from btrieve.blocks import (
     FileControlRecordFactory,
     PageAllocationTableFactory,
@@ -143,30 +146,24 @@ def find_ddf_file(folder, base_names):
     return None
 
 def get_fields(folder):
-    field_file_path = find_ddf_file(folder, ['FIELD', 'field', 'fields', 'Field'])
-    table_fields = {}
-    if field_file_path:
-        try:
-            for record in raw_records(field_file_path):
-                field_meta = FieldFactory.from_raw_record(record)
-                fid = str(field_meta.file_id)
-                if fid not in table_fields:
-                    table_fields[fid] = []
-                table_fields[fid].append(field_meta)
-        except Exception as e:
-            print(f"Warning: Error reading field DDF file {field_file_path}: {e}")
-    return table_fields
+    """
+    Get field definitions from DDF files using proper DDF parsing.
+    """
+    try:
+        return get_fields_ddf(folder)
+    except Exception as e:
+        print(f"Warning: Error parsing field DDF files: {e}")
+        return {}
 
 def get_tables(folder):
-    table_file_path = find_ddf_file(folder, ['FILE', 'file', 'files'])
-    tables = []
-    if table_file_path:
-        try:
-            for record in raw_records(table_file_path):
-                tables.append(TableFactory.from_raw_record(record))
-        except Exception as e:
-            print(f"Warning: Error reading table DDF file {table_file_path}: {e}")
-    return tables
+    """
+    Get table definitions from DDF files using proper DDF parsing.
+    """
+    try:
+        return get_tables_ddf(folder)
+    except Exception as e:
+        print(f"Warning: Error parsing table DDF files: {e}")
+        return []
 
 def parse_ddf(folder):
     tables = get_tables(folder)
@@ -366,6 +363,8 @@ def main():
 
     if os.path.isdir(args.file_path):
         scan_directory(args.file_path, args.log)
+        if args.parse_ddf:
+            parse_ddf(args.file_path)
         return
 
     print("Btrieve File Repair Tool")
