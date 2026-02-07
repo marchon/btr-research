@@ -1307,3 +1307,211 @@
 2026-02-07 11:08:06,756 - File: /Users/marchon/ld/btrieve-repair/.git/hooks/update.sample - Not a Btrieve file
 2026-02-07 11:08:06,756 - File: /Users/marchon/ld/btrieve-repair/.git/hooks/push-to-checkout.sample - Not a Btrieve file
 2026-02-07 11:08:06,756 - File: /Users/marchon/ld/btrieve-repair/.git/refs/heads/main - Not a Btrieve file
+2026-02-07 11:09:14,304 - Scanning directory: /Users/marchon/ld/
+2026-02-07 11:09:14,304 - ==================================================
+2026-02-07 11:09:14,304 - File: /Users/marchon/ld/rapidc.frm - Not a Btrieve file
+2026-02-07 11:09:14,304 - File: /Users/marchon/ld/file.txt - Not a Btrieve file
+2026-02-07 11:09:14,304 - File: /Users/marchon/ld/LD-03.DAT - Not a Btrieve file
+2026-02-07 11:09:14,304 - File: /Users/marchon/ld/LD32.DAT - Not a Btrieve file
+2026-02-07 11:09:14,304 - File: /Users/marchon/ld/LD33.DAT - Not a Btrieve file
+2026-02-07 11:09:14,304 - File: /Users/marchon/ld/LD-16.DAT - Not a Btrieve file
+2026-02-07 11:09:14,304 - File: /Users/marchon/ld/LD-02.DAT - Not a Btrieve file
+2026-02-07 11:09:14,304 - File: /Users/marchon/ld/ST2.RPT - Not a Btrieve file
+2026-02-07 11:09:14,304 - File: /Users/marchon/ld/LYT-INST.DAT - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/LD14.DAT.original - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/LD-14.DAT - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/LD-00.DAT - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/LD19.DAT - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/LD31.DAT - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/POST.DAT - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/LD-01.DAT - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/LD-15.DAT - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/ST1.RPT - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/LD06.DAT.original - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/lhcfa.frm - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/LD01.DAT.original - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/prein94.frm - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/Field.txt - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/fixit.py - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/hcfa.frm - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/LD23.DAT.original - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/.DS_Store - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/LD-11.DAT - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/LD-05.DAT - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/LD34.DAT - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/LD20.DAT - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/LD08.DAT - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/LD09.DAT - Not a Btrieve file
+2026-02-07 11:09:14,305 - File: /Users/marchon/ld/LD21.DAT - Not a Btrieve file
+2026-02-07 11:09:14,306 - File: /Users/marchon/ld/LD35.DAT - Not a Btrieve file
+2026-02-07 11:09:14,306 - File: /Users/marchon/ld/LD-04.DAT - Not a Btrieve file
+2026-02-07 11:09:14,306 - File: /Users/marchon/ld/LD-10.DAT - Not a Btrieve file
+2026-02-07 11:09:14,306 - File: /Users/marchon/ld/ds95.frm - Not a Btrieve file
+2026-02-07 11:09:14,306 - File: /Users/marchon/ld/rec.frm - Not a Btrieve file
+2026-02-07 11:09:14,306 - File: /Users/marchon/ld/LD00.DAT.original - Not a Btrieve file
+2026-02-07 11:09:14,306 - File: /Users/marchon/ld/LD-12.DAT - Not a Btrieve file
+2026-02-07 11:09:14,306 - File: /Users/marchon/ld/LD23.DAT - Not a Btrieve file
+2026-02-07 11:09:14,306 - File: /Users/marchon/ld/LD37.DAT - Btrieve file, but no DDF entry found
+2026-02-07 11:09:14,306 - File: /Users/marchon/ld/LD36.DAT - Not a Btrieve file
+2026-02-07 11:09:14,306 - File: /Users/marchon/ld/LD22.DAT - Not a Btrieve file
+2026-02-07 11:09:14,306 - File: /Users/marchon/ld/LD-13.DAT - Not a Btrieve file
+2026-02-07 11:09:14,306 - File: /Users/marchon/ld/LD-07.DAT - Not a Btrieve file
+2026-02-07 11:09:14,306 - File: /Users/marchon/ld/STA.RPT - Not a Btrieve file
+2026-02-07 11:09:14,306 - File: /Users/marchon/ld/BLS.frm - Not a Btrieve file
+2026-02-07 11:09:14,306 - File: /Users/marchon/ld/LD12.DAT.original - Not a Btrieve file
+2026-02-07 11:09:14,306 - File: /Users/marchon/ld/LD15.DAT.original - Not a Btrieve file
+2026-02-07 11:09:14,306 - File: /Users/marchon/ld/ROS.frm - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/chart.dat - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/ld08.txt - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/AALSI.frm - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/LM39.DAT - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/pstcrd.frm - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/rapsta1.frm - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/Field.ddf.txt - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/LD-SYS.DAT - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/chart.dat.original - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/pc.frm - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/Index.txt - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/bdy.frm - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/LD19.DAT.original - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/in1.frm - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/lsi.frm - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/in2.frm - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/ins.frm - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/LREC.frm - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/raplss.frm - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/LD09.DAT.original - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/AALSI-2.frm - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/Index.ddf - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/RAPID.frm - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/lss.frm - Not a Btrieve file
+2026-02-07 11:09:14,307 - File: /Users/marchon/ld/in95.frm - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/BtrFileSaver - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/in94.frm - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/fix.py - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/LD08.DAT.original - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/ld06.txt - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/btr.py - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/ec2.frm - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/ec1.frm - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/LD21.DAT.original - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/st2.frm - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/LD07.DAT - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/LD13.DAT - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/LD12.DAT - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/LD06.DAT - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/Field.ddf - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/lbl.frm - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/LD05.DAT.original - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/done.msg - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/LD02.DAT.original - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/st1.frm - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/LD-09.DAT - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/LD38.DAT - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/LD04.DAT - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/LD05.DAT - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/LD11.DAT - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/another-thought.py - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/LD-08.DAT - Not a Btrieve file
+2026-02-07 11:09:14,308 - File: /Users/marchon/ld/File.ddf.txt - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/fixit-2.py - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/nar.frm - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/tt.cpp - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/LD15.DAT - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/LD01.DAT - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/rapsta.frm - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/ld29.dat - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/LD00.DAT - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/LD14.DAT - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/File.ddf - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/LD16.DAT.original - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/APPT.frm - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/sta.frm - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/LD02.DAT - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/LD16.DAT - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/LD17.DAT - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/LD03.DAT - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/LD03.DAT.original - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/LD04.DAT.original - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/LM-COM.DAT - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/original/LD03.DAT.original.txt - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/original/LD08.DAT.original.txt - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/original/btr.zip - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/original/LD23.DAT.original.txt - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/original/LD02.DAT.original.txt - Not a Btrieve file
+2026-02-07 11:09:14,309 - File: /Users/marchon/ld/original/LD16.DAT.original.txt - Not a Btrieve file
+2026-02-07 11:09:14,310 - File: /Users/marchon/ld/original/LD09.DAT.original.txt - Not a Btrieve file
+2026-02-07 11:09:14,310 - File: /Users/marchon/ld/original/LD12.DAT.original.txt - Not a Btrieve file
+2026-02-07 11:09:14,310 - File: /Users/marchon/ld/original/LD06.DAT.original.txt - Not a Btrieve file
+2026-02-07 11:09:14,310 - File: /Users/marchon/ld/original/LD19.DAT.original.txt - Not a Btrieve file
+2026-02-07 11:09:14,310 - File: /Users/marchon/ld/original/LD15.DAT.original.txt - Not a Btrieve file
+2026-02-07 11:09:14,310 - File: /Users/marchon/ld/original/LD01.DAT.original.txt - Not a Btrieve file
+2026-02-07 11:09:14,310 - File: /Users/marchon/ld/original/LD05.DAT.original.txt - Not a Btrieve file
+2026-02-07 11:09:14,310 - File: /Users/marchon/ld/original/Field.ddf.original.txt - Not a Btrieve file
+2026-02-07 11:09:14,310 - File: /Users/marchon/ld/original/chart.dat.original.txt - Not a Btrieve file
+2026-02-07 11:09:14,310 - File: /Users/marchon/ld/original/LD14.DAT.original.txt - Not a Btrieve file
+2026-02-07 11:09:14,310 - File: /Users/marchon/ld/original/LD00.DAT.original.txt - Not a Btrieve file
+2026-02-07 11:09:14,310 - File: /Users/marchon/ld/original/LD21.DAT.original.txt - Not a Btrieve file
+2026-02-07 11:09:14,310 - File: /Users/marchon/ld/original/LD04.DAT.original.txt - Not a Btrieve file
+2026-02-07 11:09:14,310 - File: /Users/marchon/ld/original/fix/part1.py - Not a Btrieve file
+2026-02-07 11:09:14,310 - File: /Users/marchon/ld/original/fix/part5.py - Not a Btrieve file
+2026-02-07 11:09:14,310 - File: /Users/marchon/ld/original/fix/part4.py - Not a Btrieve file
+2026-02-07 11:09:14,310 - File: /Users/marchon/ld/original/fix/Ledger_FirstSet_FullyRepaired_And_Exported.zip - Not a Btrieve file
+2026-02-07 11:09:14,311 - File: /Users/marchon/ld/original/fix/part3.py - Not a Btrieve file
+2026-02-07 11:09:14,311 - File: /Users/marchon/ld/original/fix/part2.py - Not a Btrieve file
+2026-02-07 11:09:14,311 - File: /Users/marchon/ld/btrieve-repair/Makefile - Not a Btrieve file
+2026-02-07 11:09:14,311 - File: /Users/marchon/ld/btrieve-repair/README.MD - Not a Btrieve file
+2026-02-07 11:09:14,311 - File: /Users/marchon/ld/btrieve-repair/btrmaster.c - Not a Btrieve file
+2026-02-07 11:09:14,311 - File: /Users/marchon/ld/btrieve-repair/.git/config - Not a Btrieve file
+2026-02-07 11:09:14,311 - File: /Users/marchon/ld/btrieve-repair/.git/HEAD - Not a Btrieve file
+2026-02-07 11:09:14,311 - File: /Users/marchon/ld/btrieve-repair/.git/description - Not a Btrieve file
+2026-02-07 11:09:14,311 - File: /Users/marchon/ld/btrieve-repair/.git/index - Not a Btrieve file
+2026-02-07 11:09:14,311 - File: /Users/marchon/ld/btrieve-repair/.git/COMMIT_EDITMSG - Not a Btrieve file
+2026-02-07 11:09:14,311 - File: /Users/marchon/ld/btrieve-repair/.git/objects/3e/59131af40d8270cbeaf0d92512fc3811de2f27 - Not a Btrieve file
+2026-02-07 11:09:14,311 - File: /Users/marchon/ld/btrieve-repair/.git/objects/e4/c08e14feb95e61b962880a009c6456d8c7ee8d - Not a Btrieve file
+2026-02-07 11:09:14,311 - File: /Users/marchon/ld/btrieve-repair/.git/objects/2a/e7515c521aa9a068b7b0e561ec67ca3c314621 - Not a Btrieve file
+2026-02-07 11:09:14,311 - File: /Users/marchon/ld/btrieve-repair/.git/info/exclude - Not a Btrieve file
+2026-02-07 11:09:14,311 - File: /Users/marchon/ld/btrieve-repair/.git/logs/HEAD - Not a Btrieve file
+2026-02-07 11:09:14,312 - File: /Users/marchon/ld/btrieve-repair/.git/logs/refs/heads/main - Not a Btrieve file
+2026-02-07 11:09:14,312 - File: /Users/marchon/ld/btrieve-repair/.git/hooks/commit-msg.sample - Not a Btrieve file
+2026-02-07 11:09:14,312 - File: /Users/marchon/ld/btrieve-repair/.git/hooks/pre-rebase.sample - Not a Btrieve file
+2026-02-07 11:09:14,312 - File: /Users/marchon/ld/btrieve-repair/.git/hooks/sendemail-validate.sample - Not a Btrieve file
+2026-02-07 11:09:14,312 - File: /Users/marchon/ld/btrieve-repair/.git/hooks/pre-commit.sample - Not a Btrieve file
+2026-02-07 11:09:14,312 - File: /Users/marchon/ld/btrieve-repair/.git/hooks/applypatch-msg.sample - Not a Btrieve file
+2026-02-07 11:09:14,312 - File: /Users/marchon/ld/btrieve-repair/.git/hooks/fsmonitor-watchman.sample - Not a Btrieve file
+2026-02-07 11:09:14,312 - File: /Users/marchon/ld/btrieve-repair/.git/hooks/pre-receive.sample - Not a Btrieve file
+2026-02-07 11:09:14,312 - File: /Users/marchon/ld/btrieve-repair/.git/hooks/prepare-commit-msg.sample - Not a Btrieve file
+2026-02-07 11:09:14,312 - File: /Users/marchon/ld/btrieve-repair/.git/hooks/post-update.sample - Not a Btrieve file
+2026-02-07 11:09:14,312 - File: /Users/marchon/ld/btrieve-repair/.git/hooks/pre-merge-commit.sample - Not a Btrieve file
+2026-02-07 11:09:14,312 - File: /Users/marchon/ld/btrieve-repair/.git/hooks/pre-applypatch.sample - Not a Btrieve file
+2026-02-07 11:09:14,312 - File: /Users/marchon/ld/btrieve-repair/.git/hooks/pre-push.sample - Not a Btrieve file
+2026-02-07 11:09:14,312 - File: /Users/marchon/ld/btrieve-repair/.git/hooks/update.sample - Not a Btrieve file
+2026-02-07 11:09:14,312 - File: /Users/marchon/ld/btrieve-repair/.git/hooks/push-to-checkout.sample - Not a Btrieve file
+2026-02-07 11:09:14,312 - File: /Users/marchon/ld/btrieve-repair/.git/refs/heads/main - Not a Btrieve file
+2026-02-07 11:16:46,669 - Scanning directory: /Users/marchon/ld/original
+2026-02-07 11:16:46,669 - ==================================================
+2026-02-07 11:16:46,669 - File: /Users/marchon/ld/original/LD03.DAT.original.txt - Btrieve file, but no DDF entry found
+2026-02-07 11:16:46,669 - File: /Users/marchon/ld/original/LD08.DAT.original.txt - Btrieve file, but no DDF entry found
+2026-02-07 11:16:46,669 - File: /Users/marchon/ld/original/btr.zip - Not a Btrieve file
+2026-02-07 11:16:46,669 - File: /Users/marchon/ld/original/LD23.DAT.original.txt - Btrieve file, but no DDF entry found
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/LD02.DAT.original.txt - Btrieve file, but no DDF entry found
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/LD16.DAT.original.txt - Btrieve file, but no DDF entry found
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/LD09.DAT.original.txt - Btrieve file, but no DDF entry found
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/LD12.DAT.original.txt - Btrieve file, but no DDF entry found
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/LD06.DAT.original.txt - Btrieve file, but no DDF entry found
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/LD19.DAT.original.txt - Btrieve file, but no DDF entry found
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/LD15.DAT.original.txt - Btrieve file, but no DDF entry found
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/LD01.DAT.original.txt - Btrieve file, but no DDF entry found
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/LD05.DAT.original.txt - Btrieve file, but no DDF entry found
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/Field.ddf.original.txt - Not a Btrieve file
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/chart.dat.original.txt - Not a Btrieve file
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/LD14.DAT.original.txt - Btrieve file, but no DDF entry found
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/LD00.DAT.original.txt - Btrieve file, but no DDF entry found
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/LD21.DAT.original.txt - Btrieve file, but no DDF entry found
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/LD04.DAT.original.txt - Btrieve file, but no DDF entry found
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/fix/part1.py - Not a Btrieve file
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/fix/part5.py - Not a Btrieve file
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/fix/part4.py - Not a Btrieve file
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/fix/Ledger_FirstSet_FullyRepaired_And_Exported.zip - Not a Btrieve file
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/fix/part3.py - Not a Btrieve file
+2026-02-07 11:16:46,670 - File: /Users/marchon/ld/original/fix/part2.py - Not a Btrieve file
