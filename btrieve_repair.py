@@ -120,17 +120,30 @@ def raw_records(file_path):
 
 def find_ddf_file(folder, base_names):
     """
-    Find DDF file in the folder, checking multiple possible names.
+    Find DDF file in the folder, checking multiple possible names and extensions.
     """
     for base in base_names:
-        for ext in ['.DDF', '.ddf', '.DAT', '.dat']:
+        for ext in ['.DDF', '.ddf', '.DAT', '.dat', '.txt']:
+            # Try exact match
             path = os.path.join(folder, base + ext)
             if os.path.exists(path):
                 return path
+            # Try with .original extension
+            path = os.path.join(folder, base + '.original' + ext)
+            if os.path.exists(path):
+                return path
+            # Try case variations
+            for case_base in [base.lower(), base.upper(), base.capitalize()]:
+                path = os.path.join(folder, case_base + ext)
+                if os.path.exists(path):
+                    return path
+                path = os.path.join(folder, case_base + '.original' + ext)
+                if os.path.exists(path):
+                    return path
     return None
 
 def get_fields(folder):
-    field_file_path = find_ddf_file(folder, ['FIELD', 'field', 'fields'])
+    field_file_path = find_ddf_file(folder, ['FIELD', 'field', 'fields', 'Field'])
     table_fields = {}
     if field_file_path:
         try:
@@ -363,7 +376,7 @@ def main():
     if not result:
         return
 
-    fcr, records = result if extract_records else (result, [])
+    fcr, records = result
 
     issues = []
     if fcr.magic != b'FC':

@@ -1,0 +1,82 @@
+# Btrieve Repair Tool .gitignore
+
+# Test files and directories
+test_files/
+test_validation.log
+binary_test.log
+final_test.log
+info.log
+*.log
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.backup
+*.orig
+
+# Extracted research data
+original/
+ld/
+*.original
+*.dat
+*.original.txt
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# Log files from scanning operations
+scan_*.log
+btrieve_scan.log
+
+# Temporary data extraction
+extracted_data/
+dumped_data/
+*.csv
+*.sqlite
+
+# Archive and storage container files
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+*.bz2
+*.gz
+*.xz
+*.iso
+*.dmg
+*.pkg
+*.sql
